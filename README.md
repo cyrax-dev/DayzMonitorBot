@@ -24,22 +24,22 @@
 > **The bot settings are located in the `settings` folder in the `servers.json` file**
 ```json
 [
-{
+  {
     "name": "ServerName",
     "token": "DiscordToken",
     "ip": "127.0.0.1",
     "port": 2305,
     "status_online": "🟢 Online {player}/{slot} | {emoji} {time}",
     "status_offline": "🔴 Server OFF"
-},
-{
+  },
+  {
     "name": "ServerName",
     "token": "DiscordToken",
     "ip": "127.0.0.1",
     "port": 2305,
     "status_online": "🟢 Online {player}/{slot} | {emoji} {time}",
     "status_offline": "🔴 Server OFF"
-}
+  }
 ]
 ```
 

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Server 1",
+    "token": "Token",
+    "ip": "127.0.0.1",
+    "port": 2303,
+    "status_online": "🟢 Online {player}/{slot} | {emoji} {time}",
+    "status_offline": "🔴 Server OFF"
+  },
+  {
+    "name": "Server 2",
+    "token": "Token",
+    "ip": "127.0.0.1",
+    "port": 2203,
+    "status_online": "🟢 Online {player}/{slot} | {emoji} {time}",
+    "status_offline": "🔴 Server OFF"
+  }
+]
